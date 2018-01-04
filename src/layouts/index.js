@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          MarcelaUrubova.com
+          urubova.com
         </Link>
       </h1>
     </div>
