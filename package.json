@@ -5,7 +5,8 @@
   "dependencies": {
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
-    "gatsby-plugin-react-helmet": "^1.0.8"
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "npm": "^6.0.0"
   },
   "license": "MIT",
   "main": "n/a",
